@@ -1,0 +1,7 @@
+{
+  "name": "Uzumaki Clan",
+  "description": "Node.js Uzumaki Clan",
+  "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-node",
+  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
+  "keywords": ["tomp", "uzumaki"]
+}
